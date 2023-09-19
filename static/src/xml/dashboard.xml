@@ -1,0 +1,9 @@
+<template id="template" xml:space="preserve">
+    <t t-name="table_name_dashboard">
+        <div class="oh_dashboard">
+            <div class="container_fluid o_pos_dashboard">
+                <h1>Dashboard</h1>
+            </div>
+        </div>
+    </t>
+</template>

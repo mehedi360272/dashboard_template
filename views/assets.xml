@@ -1,0 +1,7 @@
+<odoo>
+      <template id="asset_dashboard" name="Dashboard Asset" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/custom_dashboard/static/src/js/dashboard.js"/>
+        </xpath>
+      </template>
+</odoo>
